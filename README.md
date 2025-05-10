@@ -1,5 +1,5 @@
 # SimpleMediaPlayer
-A simpled media player, made with kotlin + javafx (tornadofx)
+A simple media player, made with kotlin + javafx (tornadofx)
 
 Supports Drags & Drop
 
