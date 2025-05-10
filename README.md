@@ -3,19 +3,22 @@ A simpled media player, made with kotlin + javafx (tornadofx)
 
 Supports Drags & Drop
 
-Play / Pause    -   LeftMouse clich / Space
+Controls:
 
-Skip Fwd        -   1s  ( -> )
-                    5s  crtl + ( -> )
-Skip Bwd        -   1s  ( <- )
-                    5s  crtl + ( <- )
-Skip Fwd/Bwd    -   MouseWheel
+- Play / Pause    -   LeftMouse click / Space
 
-Zoom In / out   -   crtl + MouseWheel
-Reset Zoom & pan-   click MouseWheel
+Skip:
 
-Tested with Bellsoft LibericaJVM 21 LTS (full = JVM + JavaFx)
-on:
-- Linux Mint 22.1
-- Windows 7 + 10
+- Skip Fwd        -   1s  ( -> ) | 5s  crtl + ( -> )
+- Skip Rev        -   1s  ( <- ) | 5s  crtl + ( <- )
+- Skip Fwd/Rev    -   MouseWheel
 
+Zoom In / out
+-   crtl + MouseWheel
+- Reset Zoom & pan-   click MouseWheel
+- 
+*Tested with Bellsoft LibericaJVM 21 LTS (full = JVM + JavaFx).*
+
+*on:*
+- *Linux Mint 22.1*
+- *Windows 7 + 10*
